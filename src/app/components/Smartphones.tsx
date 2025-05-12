@@ -28,7 +28,7 @@ export default function Smartphones() {
                                     <button className="w-full sm:w-auto bg-white text-blue-600 font-semibold px-8 py-2 rounded-full hover:scale-105 transition">
                                         Shop Now
                                     </button>
-                                    <button className="w-full sm:w-auto bg-white/20 backdrop-blur-sm text-white font-semibold px-8 py-2 rounded-full hover:bg-white/30 hover:border-2 hover:border-white transition-all duration-300">
+                                    <button className="w-full sm:w-auto bg-white backdrop-blur-sm text-white font-semibold px-8 py-2 rounded-full hover:bg-white/30 border-2 transition-all duration-300">
                                         Promotion Details
                                     </button>
                                 </div>
